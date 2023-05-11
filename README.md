@@ -1,6 +1,8 @@
 # AdventOfCode2022Day16
 This is my solution for the [Advent of Code 2022 Day 16 2022](https://adventofcode.com/2022/day/16) in elixir. TLDR: 
+
 *Part A:* There are a number of valves connected in a graph that release pressure when opened. I can go to the valves, which takes time, and open valves, which takes time. I want to release the most pressure possible given a graph in 30 min.
+
 *Part B:* Now I have an a second person that helpes me to open valves, which complicates the solution a lot.
 
 ## Solution Part A
