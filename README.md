@@ -13,4 +13,4 @@ For this solution I check every minute if one of the players can move. If they c
 To get a more in-depth understanding of what I did, please read the [report](https://github.com/sonnenpelzx/AdventOfCode2022Day16/blob/main/Advent_of_Code_16_Report.pdf).
  
 ## How to run this program
-Clone the repository, open it with the elixir shell and run q16(30) for part A or q16b(26) for part B in c16.ex
+Clone the repository, open it with the elixir shell ("iex" then "c("c16.ex") and run "Code16.q16(30)" for part A or "Code16.q16b(26)" for part B in c16.ex
